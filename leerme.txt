@@ -1,0 +1,1 @@
+python main.py --input input/maraton.mp4 --output output/maraton.avi --yolo yolo-coco
